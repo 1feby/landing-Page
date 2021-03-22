@@ -10,4 +10,4 @@
 * add responsive top viewer for differenet sizes 
 
 
-<img src="screenshoot.png">
+<img src="screenshot.PNG">
